@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mdxrt
-- 👀 I’m interested in ...coding    
-- 🌱 I’m currently learning ...python
+- 👋 Hi, I’m Madhana Gopal a.k.a., @Mdxrt
+- 👀 I’m interested in ...coding, designing and developing .
+- 🌱 I’m currently learning ...python, Mern Stack and UX Designing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
