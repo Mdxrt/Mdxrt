@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding, designing and developing .
 - 🌱 I’m currently learning ...python, Mern Stack and UX Designing
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... madhan572000@gmail.com
 
 <!---
 Mdxrt/Mdxrt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
